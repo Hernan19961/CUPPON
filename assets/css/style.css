@@ -1,0 +1,8 @@
+.container-fluid img{
+    width: 86pt;
+    height: 25pt;
+}
+
+.price {
+    float: right;
+}
